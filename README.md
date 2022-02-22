@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Technologies used
+
+In this project was used React JS, Styled Components and Material Icons for icons used at the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
