@@ -9,7 +9,7 @@ export const Container = styled.div `
     flex-direction: column;
 `
 
-export const Header = styled.header `
+export const HeaderContainer = styled.header `
     width: 100%;
     height: 12vh;
     background-color: #000;

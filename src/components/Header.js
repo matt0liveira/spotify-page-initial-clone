@@ -1,9 +1,9 @@
 import React from 'react'
-import { Header } from '../AppStyle'
+import { HeaderContainer } from '../AppStyle'
 
 export default () => {
   return (
-    <Header>
+    <HeaderContainer>
       <nav className="navbar">
         <div className="navbar--logo">
           <img src="https://imagensfree.com.br/wp-content/uploads/2021/11/Spotify_Logo_RGB_White.png" alt="Spotify Logo" />
@@ -21,6 +21,6 @@ export default () => {
         </div>
 
       </nav>
-    </Header>
+    </HeaderContainer>
   )
 }
