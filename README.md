@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies used
 
-In this project was used React JS, Styled Components and Material Icons for icons used at the project.
+In this project was used React JS, Styled Components and Material Icons.
 
 ## Available Scripts
 
